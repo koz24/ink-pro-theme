@@ -1,0 +1,28 @@
+<wpml-config>
+	<custom-fields>
+		<!-- main post meta -->
+		<custom-field action="ignore">_post_menu_type</custom-field>
+		<custom-field action="ignore">_post_hide_title</custom-field>
+		<custom-field action="ignore">_post_hide_featured_image</custom-field>
+		<custom-field action="ignore">_post_hide_footer</custom-field>
+		<custom-field action="ignore">_post_bg_type</custom-field>
+		<custom-field action="ignore">_post_bg_color</custom-field>
+		<custom-field action="ignore">_post_bg_repeat</custom-field>
+		<custom-field action="ignore">_post_bg_attachment</custom-field>
+		<custom-field action="ignore">_post_bg_size</custom-field>
+		<custom-field action="ignore">_post_bg_effect</custom-field>
+		<custom-field action="ignore">_post_video_bg_type</custom-field>
+		<custom-field action="ignore">_post_video_bg_mp4</custom-field>
+		<custom-field action="ignore">_post_video_bg_webm</custom-field>
+		<custom-field action="ignore">_post_video_bg_ogv</custom-field>
+		<custom-field action="ignore">_post_video_bg_img</custom-field>
+		<custom-field action="ignore">_post_video_bg_youtube_url</custom-field>
+		<custom-field action="ignore">_post_overlay</custom-field>
+		<custom-field action="ignore">_post_overlay_color</custom-field>
+		<custom-field action="ignore">_post_overlay_opacity</custom-field>
+		<custom-field action="ignore">_single_post_layout</custom-field>
+		<custom-field action="ignore">_single_gallery_layout</custom-field>
+	</custom-fields>
+</wpml-config>
+
+

@@ -1,0 +1,30 @@
+[class*='_page_wolf-about'] .about-wrap .about-text {
+  min-height: 0;
+}
+
+.hide {
+  display: none;
+}
+
+/* Menu
+--------------------------------------*/
+.field-background img {
+  max-width: 100%;
+}
+
+/* Gallery size setting
+--------------------------------------*/
+.media-sidebar .setting.size {
+  display: none !important;
+}
+
+/* Plugin setting
+--------------------------------------*/
+.wolf-albums-settings-columns,
+.wolf-videos-settings-columns,
+.wolf-work-settings-columns,
+.wolf-albums-settings-filter,
+.wolf-videos-settings-filter,
+.wolf-work-settings-filter {
+  display: none;
+}

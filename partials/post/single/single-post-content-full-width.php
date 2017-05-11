@@ -1,0 +1,1 @@
+<?php get_template_part( 'partials/post/single/single-post-content', 'common' ); ?>
